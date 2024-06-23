@@ -1,5 +1,6 @@
-package com.customer.reservation;
+package com.customer.reservation.service.jwt.jwt;
 
+import com.customer.reservation.service.jwt.JwtService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
